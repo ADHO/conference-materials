@@ -8,3 +8,4 @@ Materials related to the annual Digital Humanities Conference, maintained by the
 - MOU
 - Draft call for papers
 - Information for bidding organizations
+- Code of Conduct
